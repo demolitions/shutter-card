@@ -8,9 +8,6 @@ A custom shutter card for Home Assistant Lovelace
 ![Project Maintenance][maintenance-shield]
 [![GitHub Activity][commits-shield]][commits]
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
 ## Support
 
 I will update this whenever my installation stops working =]
